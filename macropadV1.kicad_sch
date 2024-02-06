@@ -1677,7 +1677,7 @@
     (property "Value" "MX-NoLED" (at 247.2752 139.7 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 230.505 144.145 0)
+    (property "Footprint" "MX_Only:MXOnly-1U" (at 230.505 144.145 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 230.505 144.145 0)

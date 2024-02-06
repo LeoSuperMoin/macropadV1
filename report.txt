@@ -1,0 +1,100 @@
+Hinweis: Verarbeite Symbol "C1:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C2:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C3:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C4:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C5:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C6:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C7:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D1:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D2:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D3:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D4:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D5:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D6:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D7:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D8:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D9:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D10:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D11:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D12:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D13:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D14:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D15:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D16:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D17:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D18:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D19:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D20:Diode_SMD:D_0805_2012Metric".
+Hinweis: Verarbeite Symbol "F1:Fuse:Fuse_1206_3216Metric".
+Hinweis: Verarbeite Symbol "MX1:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX7:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX5:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX2:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX4:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX6:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX3:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX8:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX9:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX10:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX11:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX12:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX13:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX14:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX15:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm".
+Hinweis: Verarbeite Symbol "MX16:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX17:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX18:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX19:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "MX20:MX_Only:MXOnly-1U".
+Hinweis: Verarbeite Symbol "USB1:random-keyboard-parts:Molex-0548190589".
+Hinweis: Verarbeite Symbol "R1:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "R2:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "R3:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "R4:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "SW1:random-keyboard-parts:SKQG-1155865".
+Hinweis: Verarbeite Symbol "U1:Package_QFP:TQFP-44_10x10mm_P0.8mm".
+Footprint MX20 von "Resistor_SMD:R_0805_2012Metric" in "MX_Only:MXOnly-1U" ändern.
+Warnung: Kein Netz für Symbol MX10 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX2 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX11 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX11 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX3 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX12 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX12 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX3 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX13 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX13 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX4 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX14 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX14 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX4 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX15 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX5 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX5 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX16 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX16 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX6 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX17 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX17 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX6 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX18 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX18 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX7 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX19 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX15 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX7 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX1 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX8 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX8 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX1 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX9 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX9 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol SW1 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol SW1 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol MX2 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX10 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol MX19 Pin 4 gefunden.
+
+
+Hinweis: Warnungen insgesamt: 40, Fehler insgesamt: 0.
